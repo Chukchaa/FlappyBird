@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Serg\\FlappyBird\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E3EF6E53-88BE-20EB-65C7-C65330B49779}|Assembly-CSharp.csproj|c:\\users\\serg\\flappybird\\assets\\scripts\\core\\gamestate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3EF6E53-88BE-20EB-65C7-C65330B49779}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\core\\gamestate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3EF6E53-88BE-20EB-65C7-C65330B49779}|Assembly-CSharp.csproj|C:\\Users\\Serg\\FlappyBird\\assets\\scripts\\character\\initcharacter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3EF6E53-88BE-20EB-65C7-C65330B49779}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\character\\initcharacter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3EF6E53-88BE-20EB-65C7-C65330B49779}|Assembly-CSharp.csproj|C:\\Users\\Serg\\FlappyBird\\assets\\scripts\\initializers\\bootstrapinstaller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3EF6E53-88BE-20EB-65C7-C65330B49779}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\initializers\\bootstrapinstaller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3EF6E53-88BE-20EB-65C7-C65330B49779}|Assembly-CSharp.csproj|c:\\users\\serg\\flappybird\\assets\\scripts\\database\\characterconfigbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3EF6E53-88BE-20EB-65C7-C65330B49779}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\database\\characterconfigbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3EF6E53-88BE-20EB-65C7-C65330B49779}|Assembly-CSharp.csproj|C:\\Users\\Serg\\FlappyBird\\assets\\scripts\\character\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3EF6E53-88BE-20EB-65C7-C65330B49779}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\character\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CharacterConfigBase.cs",
+              "DocumentMoniker": "C:\\Users\\Serg\\FlappyBird\\Assets\\Scripts\\DataBase\\CharacterConfigBase.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\DataBase\\CharacterConfigBase.cs",
+              "ToolTip": "C:\\Users\\Serg\\FlappyBird\\Assets\\Scripts\\DataBase\\CharacterConfigBase.cs",
+              "RelativeToolTip": "Assets\\Scripts\\DataBase\\CharacterConfigBase.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-23T19:31:51.336Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BootstrapInstaller.cs",
+              "DocumentMoniker": "C:\\Users\\Serg\\FlappyBird\\Assets\\Scripts\\Initializers\\BootstrapInstaller.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Initializers\\BootstrapInstaller.cs",
+              "ToolTip": "C:\\Users\\Serg\\FlappyBird\\Assets\\Scripts\\Initializers\\BootstrapInstaller.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Initializers\\BootstrapInstaller.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-23T19:13:32.522Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Player.cs",
+              "DocumentMoniker": "C:\\Users\\Serg\\FlappyBird\\Assets\\Scripts\\Character\\Player.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Character\\Player.cs",
+              "ToolTip": "C:\\Users\\Serg\\FlappyBird\\Assets\\Scripts\\Character\\Player.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Character\\Player.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-23T18:58:42.158Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "InitCharacter.cs",
+              "DocumentMoniker": "C:\\Users\\Serg\\FlappyBird\\Assets\\Scripts\\Character\\InitCharacter.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Character\\InitCharacter.cs",
+              "ToolTip": "C:\\Users\\Serg\\FlappyBird\\Assets\\Scripts\\Character\\InitCharacter.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Character\\InitCharacter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-23T18:48:58.211Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GameState.cs",
+              "DocumentMoniker": "C:\\Users\\Serg\\FlappyBird\\Assets\\Scripts\\Core\\GameState.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Core\\GameState.cs",
+              "ToolTip": "C:\\Users\\Serg\\FlappyBird\\Assets\\Scripts\\Core\\GameState.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Core\\GameState.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAmwDMAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-23T18:20:04.628Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
